@@ -7,7 +7,7 @@ A simple MelonLoader mod that makes the **Meat Grinder** give you massive amount
 - Forces `minMoneyReward` to **999,999**
 - Forces `maxMoneyReward` to **9,999,999**
 - Reduces the grinder `Delay` to **0.1** seconds so you can use it much faster
-- Works automatically — no config needed
+- Works automatically  no config needed
 
 ## Requirements
 
